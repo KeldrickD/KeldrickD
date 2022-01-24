@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeldrickD
-- 👀 I’m interested in Bockchain and crypto development
+- 👀 I’m interested in any and everything in Crypto Tech
 - 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on crypto projects
 - 📫 How to reach me keldrickddev@gmail.com
